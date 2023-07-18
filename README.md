@@ -1,2 +1,2 @@
-# reconhecimento-
+# reconhecimento-facial
 Reconhecimento e contagem
